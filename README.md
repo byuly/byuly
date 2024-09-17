@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on full-stack Netlix clone website! 
+- 🔭 I’m currently working on full-stack OpenAI Dall-E clone website! 
 - 🌱 I’m currently learning **the** MERN stack :)
 - 👯 I’m looking to collaborate on super ✨cool✨ projects to expand my knowledge! 
 - 💬 Ask me about anything!! 
