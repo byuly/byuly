@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on full-stack OpenAI Dall-E clone website! 
 - 🌱 I’m currently learning **the** MERN stack :)
-- 👯 I’m looking to collaborate on super ✨cool✨ projects to expand my knowledge! 
+- 👯 I’m looking to learn more on super ✨cool✨ machine learning projects to expand my knowledge! 
 - 💬 Ask me about anything!! 
 - 📫 How to reach me: **Email**: bk.byeori.kim@gmail.com **LinkedIn**: www.linkedin.com/in/byeorik
 - 😄 Pronouns: he/him
