@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on full-stack OpenAI Dall-E clone website! 
-- 🌱 I’m currently learning **the** MERN stack :)
-- 👯 I’m looking to learn more on super ✨cool✨ machine learning projects to expand my knowledge! 
+- 🔭 I’m currently working on leetcode grind....
+- 🌱 I’m currently learning the fundamentals on SaaS, and currently developing a full-stack website on it!
+- 👯 I’m looking to find an internship for Jan, 2025!
 - 💬 Ask me about anything!! 
 - 📫 How to reach me: **Email**: bk.byeori.kim@gmail.com **LinkedIn**: www.linkedin.com/in/byeorik
 - 😄 Pronouns: he/him
