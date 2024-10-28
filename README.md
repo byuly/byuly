@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on leetcode grind....
+- 🔭 I’m currently working on exploring generative ai, like RAG and Prompt Engineering!
 - 🌱 I’m currently learning the fundamentals on SaaS, and currently developing a full-stack website on it!
 - 👯 I’m looking to find an internship for Jan, 2025!
 - 💬 Ask me about anything!! 
