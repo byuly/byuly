@@ -12,7 +12,7 @@
  </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-we love computer science 
+cs student @ the university of british columbia! 
 <br>
 
   
