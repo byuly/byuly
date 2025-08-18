@@ -52,7 +52,7 @@ cs student @ the university of british columbia!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,js,py,cpp" />
+    <img src="https://skillicons.dev/icons?i=java,py,ts,js" />
   </a>
 </p>
 <p align="center">
