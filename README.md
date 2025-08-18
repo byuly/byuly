@@ -55,6 +55,9 @@ cs student @ the university of british columbia!
     <img src="https://skillicons.dev/icons?i=java,py,ts,js" />
   </a>
 </p>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" /> Frontend
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
