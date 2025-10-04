@@ -1,26 +1,12 @@
 <!--- ![](https://komarev.com/ghpvc/?username=byuly&style=flat&color=yellow) -->
-
-<h1 align="center">Hi!,  I'm Byeori <img src=
-"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <div align="center" style="border: px solid #000000;>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+SC&pause=500&size=80&color=F7D838&center=true&vCenter=true&width=1800&height=220&lines=Computer+Science+Student;Software+Engineer;Software+Developer)](https://git.io/typing-svg)
 </div>
-<p align="center" >
- <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
- </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-cs student @ the university of british columbia! 
+my name is **Byeori Kim**, cs student @ the university of british columbia!
 <br>
-
-  
-
-
-
-
-
 <br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
