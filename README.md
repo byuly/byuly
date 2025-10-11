@@ -38,7 +38,7 @@ my name is **Byeori Kim**, cs student @ the university of british columbia!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,ts,js" />
+    <img src="https://skillicons.dev/icons?i=java,py,go,ts,js" />
   </a>
 </p>
 
