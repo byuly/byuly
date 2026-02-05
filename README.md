@@ -1,75 +1,49 @@
-<!--- ![](https://komarev.com/ghpvc/?username=byuly&style=flat&color=yellow) -->
-<div align="center" style="border: px solid #000000;>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+SC&pause=500&size=80&color=F7D838&center=true&vCenter=true&width=1800&height=220&lines=Computer+Science+Student;Software+Engineer;Software+Developer)](https://git.io/typing-svg)
-</div>
-
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-my name is **Byeori Kim**, cs student @ the university of british columbia!
-<br>
-<br>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
-
+# hey, i'm byeori 👋
  
+ - 🎓 cs student @ **UBC**
+ - 🎮 currently interning @ **Activision**
+ - 🏦 previously @ **RBC**, **SAP**
+ - ⚙️ passionate about **scalable backend design** & **big-data systems**
+ - 🎵 outside work: **music & running**
  
-<br>
-
-<p align="center"><!-----Social Accounts------>
-
-<p align="center">
-
- <a href="https://www.linkedin.com/in/byeorik">
+ ---
  
- <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
- </a>
+ ### my tech stack
+ 
+ **languages**&nbsp;&nbsp;
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+ ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+ ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-
- <a href="mailto:kimlbyeori@gmail.com">
- <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
- </a>
-</p>
-
-<br>
-
-## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" /> Programming 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,go,ts,js" />
-  </a>
-</p>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" /> Frontend
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
-  </a>
-</p>
-
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Face%20In%20Clouds.webp" alt="Face In Clouds" width="25" height="25" /> Cloud/Devops
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,kubernetes,jenkins,cypress,postman,aws,azure,gcp" />
-  </a>
-</p>
-
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Dotted%20Line%20Face.webp" alt="Dotted Line Face" width="25" height="25" /> Databases
-
-
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
-  </a>
-</p>
-    
-
-<br> 
-
+ **in progress**..&nbsp;&nbsp;
+ ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+ ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+ 
+ **backend**&nbsp;&nbsp;
+ ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+ ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+ ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+ 
+ **data**&nbsp;&nbsp;
+ ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+ ![Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=flat&logo=apacheflink&logoColor=white)
+ ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+ 
+ **infra**&nbsp;&nbsp;
+ ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+ ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+ ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+ ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+ 
+ ---
+ 
+ ### Connect
+ 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/byeorik)
+ [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kimlbyeori@gmail.com)
+ [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=safari&logoColor=white)](https://byuly.github.io/byeorikim/)
