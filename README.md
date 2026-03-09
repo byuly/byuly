@@ -1,7 +1,7 @@
 # hey, i'm byeori 👋
  
  - 🎓 cs student @ **UBC**
- - 🎮 currently interning @ **Activision**
+ - 🎮 currently interning @ **Activision Blizzard**
  - 🏦 previously @ **RBC**, **SAP**
  - ⚙️ passionate about **scalable backend design** & **big-data systems**
  - 🎵 outside work: **music & running**
