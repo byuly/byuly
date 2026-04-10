@@ -3,7 +3,7 @@
  - 🎓 cs student @ **UBC**
  - 🎮 currently interning @ **Activision Blizzard**
  - 🏦 previously @ **RBC**, **SAP**
- - ⚙️ passionate about **scalable backend design** & **big-data systems**
+ - ⚙️ passionate about **scalable backend design** & **big-data systems**! driven by curiosity
  - 🎵 outside work: **music & running**
  
  ---
