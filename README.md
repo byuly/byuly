@@ -1,9 +1,6 @@
-# hey, i'm byeori 👋
- 
- - 🎓 cs student @ **UBC**
- - 🏦 previously @ **RBC**, **SAP**, **Activision Blizzard**
- - ⚙️ passionate about **scalable backend design** & **big-data systems**! driven by curiosity
- - 🎵 outside work: **music & running**
+hey, i'm byeori 👋
+
+i'm a cs student @ UBC! 
  
  ---
  
@@ -11,9 +8,9 @@
  
  **languages**&nbsp;&nbsp;
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
- ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+ ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
  **in progress**..&nbsp;&nbsp;
  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
